@@ -75,7 +75,7 @@ The description should detail what information the page contains or what the pag
 
 #### Regarding Facebook Pages
 
-Be clear and concise when naming a Facebook page. Do not include high value generic keywords. If the Facebook page appears too spam-like, potential followers will be less likely to share it with others and more likely to hide that page's updates from their feed. Furthermore, do not create pages with generic titles, like "Travel" or "Hawaii". Facebook pages are designed to represent businesses, brands, and celebrities. Understandably, Facebook has been known to disable updates from generically named pages.
+Be clear and concise when naming a Facebook page, and do not include generic keywords. If the Facebook page appears too spam-like, Facebook users will be less likely to share it with others and more likely to hide that page's updates from their feed. Further to this point, do not create pages with generic titles, like "Food" or "Burgers". Facebook pages are designed to represent businesses, brands, and celebrities. Understandably, Facebook has been known to disable updates from generically named pages.
 
 ### Affiliates
 
