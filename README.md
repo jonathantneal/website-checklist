@@ -37,7 +37,7 @@ Different operating systems and web browsers render sites in different ways. In 
 
 ## Pages
 
-When potential visitors search Google, Bing, or whatever else, they scan over the page titles and descriptions. Therefore, it is extremely important that page titles clearly indicate what they can expect from a page. Consider including a promise in a page description which describes something useful that the page will deliver, and include a few words about how the reader will benefit.
+When potential visitors search Google, Bing, or whatever else, they scan over the page titles and descriptions. Therefore, it is extremely important that page titles clearly indicate what they can expect from a page. Consider including a promise in a page description which describes something useful that the page will deliver, and include a few words about how the reader will benefit. Avoid hyperbole, advertising language, or strings of search engine keywords.
 
 ### Titles
 
